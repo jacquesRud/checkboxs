@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkbox False 1`] = `
+<div>
+  <div
+    style="cursor: pointer;"
+  >
+    [ 
+     
+     ]
+  </div>
+</div>
+`;
+
+exports[`Checkbox True 1`] = `
+<div>
+  <div
+    style="cursor: pointer;"
+  >
+    [ 
+    X
+     ]
+  </div>
+</div>
+`;

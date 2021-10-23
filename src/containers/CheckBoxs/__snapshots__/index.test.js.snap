@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkboxs Render 1`] = `
+<div>
+  <div
+    style="display: flex;"
+  >
+    <div
+      style="cursor: pointer;"
+    >
+      [ 
+       
+       ]
+    </div>
+     
+    Select All
+  </div>
+  <div
+    id="0"
+    style="display: flex;"
+  >
+    <div
+      style="cursor: pointer;"
+    >
+      [ 
+       
+       ]
+    </div>
+    Item 
+    0
+  </div>
+  <div
+    id="1"
+    style="display: flex;"
+  >
+    <div
+      style="cursor: pointer;"
+    >
+      [ 
+       
+       ]
+    </div>
+    Item 
+    1
+  </div>
+  <div
+    id="2"
+    style="display: flex;"
+  >
+    <div
+      style="cursor: pointer;"
+    >
+      [ 
+       
+       ]
+    </div>
+    Item 
+    2
+  </div>
+  <div
+    id="3"
+    style="display: flex;"
+  >
+    <div
+      style="cursor: pointer;"
+    >
+      [ 
+       
+       ]
+    </div>
+    Item 
+    3
+  </div>
+  <div
+    id="4"
+    style="display: flex;"
+  >
+    <div
+      style="cursor: pointer;"
+    >
+      [ 
+       
+       ]
+    </div>
+    Item 
+    4
+  </div>
+</div>
+`;
